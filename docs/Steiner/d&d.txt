@@ -1,0 +1,153 @@
+siamo stati ingaggiati per scortare un mercante, verso Kampling
+nascente città sorta su crocevia commerciale
+incrocio di due fiumi, regno umano e ??
+nei dintorni ci sono diverse rovine, miniere metalli, boschi
+
+umano
+artefice
+
+strength		8
+dexterity		13
+constitution	10
+intelligence	15
+wisdom			14
+charisma		12
+
+criminale
+Redemption. There's a spark of good in everyone.
+I'm guilty of a terrible crime. I hope I can redeem myself for it.
+I turn tail and run when things look bad.
+
+neutrale/buono
+
+arcana
+percezione
+
+Woodcarver's tools 1 gp
+
+
+incantesimi tra cui scegliere:
+
+Absorb elements-I'*
+Alarm (ritual)
+Catapult**
+Cure wounds
+Detect magic (ritual)
+Disguise self
+Expeditious retreat
+Faerie fire
+False life
+Feather fall
+Grease·
+Identify (ritual)
+jump
+Longstrider
+Purify food and drink
+Sanctuary
+Snare*-!'
+Tasha's caustic brew'􀂚
+
+
+fire bolt / dardo di fuoco - manuale giocatore 228
+tempo di lancio: 1 azione
+gittata: 36m
+componenti: V,S
+durata: concentrazione, fino a 1m
+
+guidance / guida - manuale giocatore 240
+tempo di lancio: 1m
+gittata: contatto
+componenti: V,S
+durata: concentrazione, fino a 1m
+
+
+Francesco - Balnar - dragonide, paladino di lennis
+Simone - Zigurd - ladro
+Simone - Honk - Chierico Mezz'orco
+Lorenzo - Goirin - Nano Ranger
+
+1 posto di guardia
+13 alchimista
+2 previsione futuro
+tempio vuacher
+bottega commerciante
+11 santuario elm
+4 molo
+10 bottega carta piuma, libreria, servizi postali
+5 bottega, il mistico emporio, c'è una guardia davanti all'ingresso
+9 taverna, 2 piani, juibilio
+	Ajajir, gestisce la taverna da 20 anni, dragonborn
+7 posto di guardia
+6 piccola bottega, spadini e uncini
+	fabbro halfling
+8 municipio città
+
+
+ORSON, proprietario villa
+oggetti nella villa:
+- casse e barili fuori dalla villa (materiali da costruzione) [X]
+- 2 statue pregiate (piano terra [X] / primo piano [X])
+- libreria: documenti commerciali importanti [X]
+- camera da letto: collezione gioielleria [X]
+- cantina: bottiglia di vino molto pregiata [X]
+- stanza con camino: oggetti esposti (pugnale ornamentale [X], figurina di vetro incisa [X], calice d'argento [X], gemma)
+
+GERALD, domestico della villa
+
+trovato tesoro del coboldo che sussurrava ai ratti
+collana d'oro con denti di ratto
+pozione a 3 strati, marrone/grigio/bianco
+pozione con liquido viola
+
+
+Candidati elezioni:
+- Galen Isil
+- Gurd Mezzabarba, nano che si occupa del porto
+- Pog, lavoratore
+- Onson
+
+
+
+
+
+la gemma contiene magia di:
+ammaliamento + congiurazione
+
+
+
+livello 3
+- HP: (+1d8 OR 5) + constitution modifier ==> +8HP (14 ==> 22)
+- the right tool for the job: usando tinker's tools posso creare un set di artisan's tools
+- imparo 1 nuova magia livello 1 (3 totali)
+
+artificer specialist: artillerist
+proficiency con woodcarven's tool o, se già in uso, una a scelta. ==> strumenti da fabbro
+imparo spell shield, thunderwave (onda tonante, p 157)
+
+
+nuova abilità: ELDRITCH CANNON
+- aspetto: 
+	- tiny: posso tenerlo in mano
+	- small: è autonomo
+	- può avere le gambe e quindi muoversi autonomamente
+- ne posso creare 1 al giorno usando un'azione, oppure usando uno slot magia livello 1+
+- tempo per metterlo in campo? 1 azione?
+- è oggetto magico
+- AC 18
+- HP: 5 volte il mio livello
+- immune a: poison, psychic, all conditions
+- ability check/saving throw: tratta tutto come 10 (+0)
+- se gli si casta mending ==> +2d6 vita
+- dura 1h
+- se sei entro 60 piedi di distanza (20m), posso usare azione extra per attivarlo. Se è mobile, si può spostarlo di 15 piedi (5m)
+
+tipi di cannone:
+- flamethrower: AoE entro 15 piedi di distanza. tutte le creature eseguono dexterity saving throw. 
+	2d8 fire dmg se fallito, metà se successo.
+	il fuoco incendia tutti gli oggetti infiammabili che non siano indossati o trasportati
+- force balista: ranged spell attack a 120piedi (40m).
+	hit ==> 2d8 force damage
+	se bersaglio è una creatura, viene allontanato di 5piedi (1m)
+- protector: emette burst di energia che da scudo a sé e alle creature di mia scelta (entro 10piedi, 3m) di 
+	1d8 + mia intelligence di temporary HP
+	durata?
