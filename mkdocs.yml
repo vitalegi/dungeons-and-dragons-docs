@@ -5,3 +5,6 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - footnotes
+  - attr_list
+extra_css:
+  - style.css
