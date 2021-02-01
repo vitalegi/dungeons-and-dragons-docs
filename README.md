@@ -13,3 +13,9 @@ mkdocs serve
 ```
 mkdocs serve
 ```
+
+## Deploy
+
+Code will be automatically deployed to <https://dnd-vitalegi.netlify.app/> when it's pushed to master.
+
+Check the status of CI/CD on <https://app.netlify.com/sites/dnd-vitalegi/deploys>

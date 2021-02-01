@@ -1,4 +1,4 @@
-site_name: D&D
+site_name: D&D - 0.1
 theme: material
 markdown_extensions:
   - pymdownx.emoji:
