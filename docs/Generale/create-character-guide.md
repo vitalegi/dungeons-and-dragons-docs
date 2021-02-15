@@ -128,7 +128,7 @@ Per ogni tiro salvezza, se si ha proficiency, la formula da applicare è `FLOOR(
 | Caratteristica | Valore | Tiro salvezza |
 | -------------- | ------ | ------------- |
 | STR | +2 | +4 :material-check-circle:{: .highlight } |
-| DEX | +4 | +5 * :material-check-circle:{: .highlight } |
+| DEX | +4 | +6 :material-check-circle:{: .highlight } |
 | CON | +3 | +3 |
 | INT | +0 | +0 |
 | WIS | +0 | +0 |
@@ -150,10 +150,8 @@ Se non si ha proficiency, `FLOOR((STAT-10)/2)`.
 | Deception (Cha)       | -2                                         | Persuasion (Cha)      | -2                                         |
 | History (Int)         | +0                                         | Religion (Int)        | +0                                         |
 | Insight (Wis)         | +2 :material-check-circle:{: .highlight }  | Sleight of Hand (Dex) | +4                                         |
-| Intimidation (Cha)    | -2                                         | Stealth (Dex)         | +5 * :material-check-circle:{: .highlight }  |
+| Intimidation (Cha)    | -2                                         | Stealth (Dex)         | +6 :material-check-circle:{: .highlight }  |
 | Investigation (Int)   | +0                                         | Survival (Wis)        | +2 :material-check-circle:{: .highlight }  |
-
-\* valore massimo: 5
 
 ## Passive wisdom
 
