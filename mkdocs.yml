@@ -10,8 +10,3 @@ extra_css:
   - style.css
 plugins:
   - search
-  - encryptcontent:
-      global_password: "your_password"
-      remember_password: True
-      encrypted_something:
-          md-sidebar--secondary: [div, class]
