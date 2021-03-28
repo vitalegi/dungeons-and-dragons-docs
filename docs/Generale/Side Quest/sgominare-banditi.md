@@ -1,5 +1,9 @@
 # Sgominare i banditi
 
+:material-rocket-launch:{: .forbidden } __Disclaimer__: materiale a rischio spoiler :material-nuke:{: .forbidden }
+
+-----------
+
 ## Contesto
 
 Dei banditi hanno rubato a casa di un nobile __TODO dettagli nobile e casa__, la cui tenuta è fuori città. La guardia cittadina non è in grado di aiutare così lontano dalla città e l'esercito non ha mai dato supporto in questo lato del continente.
